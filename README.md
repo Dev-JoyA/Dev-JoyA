@@ -1,4 +1,4 @@
-# Hello World! I'm Joy Aruku
+# Hi 👋  I'm Joy Aruku
 
 ## Full-stack Web Developer
 
