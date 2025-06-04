@@ -34,8 +34,7 @@ I'm a passionate full-stack web developer dedicated to building innovative and u
 ## Stats
 
 <div style="border: 2px solid #e1e4e8; border-radius: 6px; padding: 10px;">
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyAruku&show_icons=true&theme=radical" alt="Joy's GitHub Stats"/>
+ 
   <h3>Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyAruku&layout=compact&theme=radical" alt="Top Languages"/>
   <h3>Streak Stats</h3>
@@ -53,9 +52,6 @@ I'm a passionate full-stack web developer dedicated to building innovative and u
 
 🎂 Thanks for stopping by! Feel free to grab a slice of cake and connect!
 
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 <!--
 **Dev-JoyA/Dev-JoyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
