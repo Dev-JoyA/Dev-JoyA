@@ -1,14 +1,15 @@
 # Hi 👋  I'm Joy Aruku
 
-## Full-stack Web Developer
+## Full-stack Web & Smart Contract Developer 
 
-I'm a passionate full-stack web developer dedicated to building innovative and user friendly web applications. I love creating impactful solutions and collaborating on exciting projects. My next goal is to dive into **blockchain development** to expand my skill set.
+I’m a Blockchain & Full-Stack Web Developer experienced in Solidity smart contracts, focused on building scalable applications and exploring innovative Web3 solutions.
 
 🌍 I'm based in Nigeria  
 💼 Currently available for remote jobs and startup collaborations  
 📚 Learning and preparing for blockchain and Web3 development  
 🤝 Open to collaboration on exciting web development projects  
 📫 Reach me at: [joy.gold13@gmail.com](mailto:joy.gold13@gmail.com)
+💻 Porfolio :[Joy's Portfolio](https://joy-aruku-website.vercel.app/)
 
 
 ## Skills
