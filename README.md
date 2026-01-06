@@ -8,7 +8,7 @@ I’m a Blockchain & Full-Stack Web Developer experienced in Solidity smart cont
 💼 Currently available for remote jobs and startup collaborations  
 📚 Learning and preparing for blockchain and Web3 development  
 🤝 Open to collaboration on exciting web development projects  
-📫 Reach me at: [joy.gold13@gmail.com](mailto:joy.gold13@gmail.com)
+📫 Reach me at: [joy.gold13@gmail.com](mailto:joy.gold13@gmail.com)<br>
 💻 Porfolio :[Joy's Portfolio](https://joy-aruku-website.vercel.app/)
 
 
